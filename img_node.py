@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Author: Oscar D
+Authors: Oscar D, Carlos H
 Description: ROS Noetic node to make prediction of traffic signals based on the YOLOv5s model
 """
 import numpy as np
