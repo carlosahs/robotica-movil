@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""
+Authors: Oscar D, Carlos H, Juan T
+Description: State machine that incorporates both linea follower and image node scripts.
+"""
 import numpy as np
 import cv2
 import rospy
