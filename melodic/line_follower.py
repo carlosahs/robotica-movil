@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+"""
+Authors: Oscar D, Juan T, Aaron R
+Description: Line follower based on the image received from Puzzlebot camera on the road.
+"""
 import numpy as np
 import cv2
 import rospy
