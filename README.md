@@ -26,6 +26,10 @@ $ rorsrun puzzlebot line_follower.py`
 ```
 
 ### After running `img_node.py`
+Once `img_node.py` is running, the state machine can be ran:
+```
+$ rosrun puzzlebot state_machine.py
+```
 
 ## Neural net requirements
 To be able to run `img_node.py`, the following dependencies must be installed inside a virtual environment:
